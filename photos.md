@@ -1,7 +1,4 @@
-## Table of Contents
 
-- [Pragya Nayan](#PragyaNayan)
-- 
   # Pragya Nayan
     <div class="grid">
         <div class="grid-item">
@@ -372,8 +369,8 @@
             <img src="img/pragya-nayan-at-kalinga-pressmeet95.jpg" alt="Image 95" onclick="openModal(this)">
         </div>
     </div>
-<h1>Priyanka</h1>
-    <div class="grid">
+# Priyanka
+  <div class="grid">
         <div class="grid-item">
             <img src="img1/priyanka-rudhra-garuda-puranam-teaser-launch1.jpg" alt="Image 1" onclick="openModal(this)">
         </div>
@@ -525,7 +522,7 @@
             <img src="img1/priyanka-rudhra-garuda-puranam-teaser-launch50.jpg" alt="Image 50" onclick="openModal(this)">
         </div>
     </div>
-<h1>Dharani Priya</h1>
+  # Dharani Priya
     <div class="grid">
         <div class="grid-item">
             <img src="img2/actress-dharani-priya-stills1.jpg" alt="Image 1" onclick="openModal(this)">
