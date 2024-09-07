@@ -1,6 +1,6 @@
 
-  # Pragya Nayan
-    <div class="grid">
+# Pragya Nayan
+   <div class="grid">
         <div class="grid-item">
             <img src="img/pragya-nayan-at-kalinga-pressmeet1.jpg" alt="Image 1" onclick="openModal(this)">
         </div>
