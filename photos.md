@@ -522,8 +522,8 @@
             <img src="img1/priyanka-rudhra-garuda-puranam-teaser-launch50.jpg" alt="Image 50" onclick="openModal(this)">
         </div>
     </div>
-  # Dharani Priya
-    <div class="grid">
+# Dharani Priya
+ <div class="grid">
         <div class="grid-item">
             <img src="img2/actress-dharani-priya-stills1.jpg" alt="Image 1" onclick="openModal(this)">
         </div>
